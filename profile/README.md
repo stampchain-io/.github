@@ -1,1 +1,1 @@
-## The Creators of the Bitcoin Stamps Protocol ##
+## Stampchain.io = The Creators of the Bitcoin Stamps Protocol ##
