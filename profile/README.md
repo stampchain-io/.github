@@ -15,3 +15,9 @@ https://github.com/mikeinspace/stamps
 - https://x.com/SuperExet
 - https://x.com/btcOpenStamp
 - https://x.com/LeatherBTC
+
+--- 
+## Stampchain API Documentation:
+
+https://stampchain.io/docs
+
