@@ -5,6 +5,8 @@ https://github.com/mikeinspace/stamps
 
 [![Bitcoin Stamps Telegram Group](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/20px-Telegram_logo.svg.png)](https://t.me/BitcoinStamps) [Bitcoin Stamps Telegram Group](https://t.me/BitcoinStamps)
 
+[![Bitcoin Stamps Dev Group](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/20px-Telegram_logo.svg.png)](https://t.me/+5FZcT2i8UYc0M2Ux) [Bitcoin Stamps Dev Group](https://t.me/+5FZcT2i8UYc0M2Ux)
+
 [![X](https://upload.wikimedia.org/wikipedia/commons/archive/c/ce/20230816012001%21X_logo_2023.svg)](https://x.com/Stampchain) [Stampchain X Account](https://x.com/Stampchain)
 
 ---
