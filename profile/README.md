@@ -8,6 +8,16 @@
 - https://x.com/btcOpenStamp
 - https://x.com/LeatherBTC
 
+---
+### Bitcoin Stamps Indexer
+
+https://github.com/stampchain-io/btc_stamps
+
+---
+### Bitcoin Stamps API / Explorer
+
+https://github.com/stampchain-io/BTCStampsExplorer
+
 --- 
 ## Stampchain API Documentation:
 
