@@ -1,13 +1,25 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/stampchain-io/.github/main/profile/assets/bitcoinstamps-banner-github.png" alt="Bitcoin Stamps">
-</p>
-  
-[![Docs](https://img.shields.io/badge/docs-bitcoinstamps.xyz-F7931A?logo=bitcoin&logoColor=white)](https://bitcoinstamps.xyz)
-[![Explorer](https://img.shields.io/badge/explorer-stampchain.io-F7931A?logo=bitcoin&logoColor=white)](https://stampchain.io)
-[![API Docs](https://img.shields.io/badge/API-OpenAPI%2FSwagger-4c8dbf)](https://stampchain.io/docs)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/stampchain-io/.github/main/profile/assets/bitcoinstamps-github-hero.png" alt="Bitcoin Stamps Protocol" width="100%">
+
+### Bitcoin Stamps
+#### Immutable digital assets stored in Bitcoin's UTXO set
+**CLASSIC / SRC-20 / SRC-721 / SRC-721r / SRC-101 / OLGA** 
+
+&nbsp;
+
+[![Explorer](https://img.shields.io/badge/explorer-stampchain.io-F7931A?logo=bitcoin&logoColor=white)](https://stampchain.io)&nbsp;&nbsp;
+[![Docs](https://img.shields.io/badge/docs-bitcoinstamps.xyz-F7931A?logo=bitcoin&logoColor=white)](https://bitcoinstamps.xyz)&nbsp;&nbsp;
+[![API Docs](https://img.shields.io/badge/API-OpenAPI%2FSwagger-4c8dbf)](https://stampchain.io/docs)&nbsp;&nbsp;
 [![Telegram](https://img.shields.io/badge/community-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/BitcoinStamps)
 
-### Unprunable data storage on Bitcoin's UTXO set. Permanent by design.
+&nbsp;
+
+---
+
+</div> 
+&nbsp;
+
+## 📋 Overview
 
 Bitcoin Stamps embed data directly in Bitcoin transactions using bare multisig outputs, storing it in the UTXO set where node operators cannot prune it. Every stamp is a permanent on-chain artifact, secured by Bitcoin itself with no off-chain dependencies.
 
@@ -17,13 +29,14 @@ The protocol was created by [mikeinspace](https://x.com/mikeinspace), with co-fo
 
 ### Protocols
 
-| Standard | What it does |
-|----------|--------------|
-| **SRC-20** | Fungible tokens stamped directly onto Bitcoin |
-| **SRC-101** | Decentralized naming system |
-| **SRC-721** | Non-fungible token standard for Stamps |
-| **SRC-721r** | Recursion: stamps that reference and compose other stamps |
-| **OLGA** | P2WSH encoding optimization for all stamp protocols |
+| Protocol | Purpose |
+|----------|---------|
+| 🟩 **Classic Stamp** | Immutable digital assets |
+| 🟡 **SRC-20** | Fair-launch fungible tokens |
+| 🟦 **SRC-721** | Recursive Stamps with JSON manifests |
+| 🟪 **SRC-721r** | Recursive Stamps with HTML/CSS/JS |
+| ⚪️ **SRC-101** | Bitcoin-native domain name system |
+| 🔲 **OLGA** | P2WSH encoding: optimization for all stamp protocols |
 
 ### Core Infrastructure
 
@@ -59,12 +72,15 @@ The protocol was created by [mikeinspace](https://x.com/mikeinspace), with co-fo
 
 ### Prominent Users of the Bitcoin Stamps Indexer & API
 
-[KuCoin](https://x.com/kucoincom) · [SuperEx](https://x.com/SuperExet) · [OpenStamp](https://x.com/btcOpenStamp) · [Leather Wallet](https://x.com/LeatherBTC)
+[KuCoin](https://x.com/kucoincom) · [SuperEx](https://x.com/SuperExet) · [OpenStamp](https://x.com/btcOpenStamp)
+
+&nbsp;
 
 ---
 
 <div align="center">
 
-Built with Bitcoin. Permanent by design. 🧡
+Built with Bitcoin 🧡 Permanent by design
 
 </div>
+
